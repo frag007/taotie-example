@@ -33,4 +33,5 @@ target
 
 # Log file
 *.log
+*.tar.gz
 
